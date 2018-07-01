@@ -1,6 +1,7 @@
 import discord
 
 client = discord.Client()
+worker: python3 bot.py
 
 @client.event
 async def on_message(message):
