@@ -1,0 +1,2 @@
+# FruskeiDaBot
+My Bot
