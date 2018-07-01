@@ -1,6 +1,7 @@
 import random
 from discord import Game
 from discord.ext.commands import Bot
+worker: python3 bot.py
 
 TOKEN = "NDYyMjY4NDc0MjQ1MjUxMDcy.DhjYcQ.ofg0Y5OzCzQWFNwFk9-S1JN6wpo"
 
